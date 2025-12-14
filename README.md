@@ -6,3 +6,7 @@ VITE_GOOGLE_CLIENT_ID={clientID}.apps.googleusercontent.com
 VITE_API_URL=http://localhost:5173
 
 Checks utilizados no projeto que foram utilziados na aula
+  - [x] Paginação
+  - [x] Auth 
+  - [x] Salvando sessao no storage
+  - [x] Debounce
